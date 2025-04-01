@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=BAT - Pin=C1-1
+Added Pin To Net: NetName=BAT - Pin=TP1-1
+Added Pin To Net: NetName=BAT - Pin=TP3-1
+Added Net: Name=BAT -
+Added Room: Name=01 - BMS

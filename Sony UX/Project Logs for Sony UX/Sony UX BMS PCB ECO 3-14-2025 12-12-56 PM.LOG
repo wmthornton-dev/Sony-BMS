@@ -1,0 +1,34 @@
+Added Component: Designator=TP?(PAD_SQ_2MM)
+Added Component: Designator=TP?(PAD_SQ_2MM)
+Added Component: Designator=TP?(PAD_SQ_2MM)
+Added Component: Designator=TP?(PAD_SQ_2MM)
+Added Component: Designator=TP?(PAD_SQ_2MM)
+Added Component: Designator=TP?(PAD_SQ_2MM)
+Added Component: Designator=TP?(PAD_SQ_2MM)
+Added Component: Designator=U1(DCT8)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U2(DBT30)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Component: Designator=U3(PW20)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=01 - BMS Member=Component TP? 2P
+Added Member To Class: ClassName=01 - BMS Member=Component TP? 1N
+Added Member To Class: ClassName=01 - BMS Member=Component TP? Pad
+Added Member To Class: ClassName=01 - BMS Member=Component TP? 1P
+Added Member To Class: ClassName=01 - BMS Member=Component TP? 4P
+Added Member To Class: ClassName=01 - BMS Member=Component TP? Pad
+Added Member To Class: ClassName=01 - BMS Member=Component TP? 3P
+Added Member To Class: ClassName=00 - Block Member=Component U1 BQ29412DCTRG4
+Added Member To Class: ClassName=01 - BMS Member=Component U1 BQ29412DCTRG4
+Added Member To Class: ClassName=00 - Block Member=Component U2 BQ29330DBT
+Added Member To Class: ClassName=01 - BMS Member=Component U2 BQ29330DBT
+Added Member To Class: ClassName=00 - Block Member=Component U3 BQ20Z70PW-V160
+Added Member To Class: ClassName=01 - BMS Member=Component U3 BQ20Z70PW-V160
+Added Room: Name=00 - Block
+Added Room: Name=01 - BMS

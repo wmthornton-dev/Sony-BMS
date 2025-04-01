@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change Component Designator: OldDesignator=TP? NewDesignator=TP3
+Change Component Designator: OldDesignator=TP? NewDesignator=TP4
+Change Component Designator: OldDesignator=TP? NewDesignator=TP5
+Change Component Designator: OldDesignator=TP? NewDesignator=TP6
+Change Component Designator: OldDesignator=TP? NewDesignator=TP7
+Added Member To Class: ClassName=01 - BMS Member=Component TP1 Pad
+Added Member To Class: ClassName=01 - BMS Member=Component TP2 Pad
+Added Member To Class: ClassName=01 - BMS Member=Component TP4 1P
+Added Member To Class: ClassName=01 - BMS Member=Component TP5 2P
+Added Member To Class: ClassName=01 - BMS Member=Component TP6 3P
+Added Member To Class: ClassName=01 - BMS Member=Component TP7 4P
+Added Member To Class: ClassName=01 - BMS Member=Component U1 BQ29412DCTRG4
+Added Member To Class: ClassName=01 - BMS Member=Component U2 BQ29330DBT
+Added Member To Class: ClassName=01 - BMS Member=Component U3 BQ20Z70PW-V160
